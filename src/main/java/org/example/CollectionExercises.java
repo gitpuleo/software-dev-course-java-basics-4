@@ -65,3 +65,6 @@ public class CollectionExercises {
         return null;
     }
 }
+
+
+//adding comment to test if commit works correctly
